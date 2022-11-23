@@ -1,7 +1,7 @@
 # MYSTIC-006-
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/MYSTIC-006/MYSTIC-006/master/name.svg" alt="Marton Lederer" />
+  <img src="https://raw.githubusercontent.com/MYSTIC-006/MYSTIC-006/master/name.svg" alt="MYSTIC-006" />
 </h1>
 
 

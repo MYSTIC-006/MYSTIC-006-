@@ -1,5 +1,9 @@
 # MYSTIC-006-
-🤔
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MYSTIC-006/MYSTIC-006/master/name.svg" alt="Marton Lederer" />
+</h1>
+
 
 <h1 align="left">Hi Its Me Mystic🍭</h1>
 <h3 align="left">I Am Just A Beginner from Area 51👽</h3>
